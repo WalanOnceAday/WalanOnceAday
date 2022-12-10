@@ -1,12 +1,12 @@
 ### Hi there 👋
-A Student Who Is Amazed by How Powerful Data is.
+<!-- A Student Who Is Amazed by How Powerful Data is.
 - I'm currently working on exploratory analysis.
 - I'm currently learning Machine Learning Models.
 
 Prefered Language
 - R
 - Python
-- SQL
+- SQL -->
 <!--
 **WalanOnceAday/WalanOnceAday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
